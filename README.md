@@ -1,6 +1,11 @@
 # vagrant-awscli
 A simple repo to have awscli installed on a VM
 
+## pre-requirements
+- [x] vagrant installed
+- [x] virtualbox installed
+- [x] git available, to do `git clone`
+
 ## how to create this VM
 
 - clone this repo
